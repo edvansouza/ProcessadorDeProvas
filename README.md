@@ -1,5 +1,7 @@
 # ibe-csv-to-excel
 Converte arquivos CSV do Google Forms para uma Tabela de Excel
+
+
 Este um projeto para converter Google Forms com sessões em tabela do excel.
 Provas são feitas numa escola regular pelo Google Forms e as matérias são separadas por sessões.
 Cada professor de cada matéria precisa coletar as notas dos alunos mas o Google Forms não gera a pontuação separada de cada sessão apenas a pontuação total somando todas as questões de todas as matérias.
